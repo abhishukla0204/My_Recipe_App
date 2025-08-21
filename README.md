@@ -5,9 +5,9 @@ A modern Android application built with **Kotlin** and **Jetpack Compose** that 
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/recipe_categories.png" width="300" alt="Recipe Categories Screen" />
+  <img src="screenshots/recipe_categories.png" width="280" alt="Recipe Categories Screen" />
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/recipe_detail.png" width="300" alt="Recipe Detail Screen" />
+  <img src="screenshots/recipe_detail.png" width="280" alt="Recipe Detail Screen" />
 </div>
 
 ## ✨ Features
